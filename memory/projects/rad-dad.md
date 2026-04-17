@@ -1,0 +1,21 @@
+# Rad Dad (band)
+
+- **Role:** Jeff's main current band.
+- **Lineup (2026):**
+  - **Jeff Story** — rhythm guitar + vocals
+  - **Travis** — lead guitar
+  - **Lucky Ivy** — bass (also owns a concrete company; Jeff's lifelong best friend)
+  - **Che** — drums (also drums in Stalemate)
+- **History:** The Rad Dad guys have been playing together since ~1997 — some of them originally played together in Stalemate in the '90s.
+- **Upcoming shows:**
+  - **May 16, 2026 — Richardson Wildflower Festival** (confirmed)
+- **Next practice:** tentatively next week (Thu or Sat — not yet confirmed).
+- **Website:** https://raddadband.com  (source in the `RadDadSite` GitHub repo).
+- **Assets on file:**
+  - Repo for the website (`RadDadSite`)
+  - **Rad Dad Setlist** (Google Sheet) — 25-song current rotation — see `memory/music/rad-dad-setlist.md`
+  - **Rad Dad Technical Rider v20 Final** (docx + pdf, Jan 2026)
+  - Rad Dad Website backup (zip)
+  - Rad Dad Set Video v1.0 (mp4)
+  - Rad Dad Videos folder with branding images (Rad Dad Dots, Tron Rad Dad, etc.)
+  - Songs, lyrics, recordings scattered across Drive — see `memory/music/song-catalog.md`

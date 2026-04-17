@@ -1,0 +1,32 @@
+# Build artifacts
+build/
+*.log
+node_modules/
+.npm/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary session files (Cowork sandbox leftovers)
+.cache/
+tmp/
+
+# Sensitive — these might be created by future skills
+memory/message-log.md
+memory/outcome-log.md
+
+# But allow templates:
+!memory/life-threads/_template.md
+
+# Zapier / Twilio / ElevenLabs secrets (if you ever add them)
+.env
+.env.local
+secrets/
+credentials/
