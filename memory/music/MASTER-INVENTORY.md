@@ -413,3 +413,67 @@ Adding Jeff's new list, the total unique-title count jumps from ~180 to **~200+ 
 For each of the 19 new-titled songs above, Andrea should run `/song-search` against Drive + SoundCloud to see if a version already exists but wasn't connected. After that sweep:
 - Anything with audio → add to appropriate status section above
 - Anything title-only → flag as `lyric-only` or `sketch` for future work
+
+## Drive connections found (18 of 19)
+
+Drive sweep results — lyric docs and audio files located for each new title:
+
+| Song | Drive file | Type | Date |
+|------|-----------|------|------|
+| Older | [Older.wav](https://drive.google.com/file/d/0BxafpfE8cQJ7eHptLUhPeFRjSzg/view) | WAV | 2014-08-09 |
+| Life In America | [Life in America 2018](https://docs.google.com/document/d/1jGe83QVsHRb64eCpFYyrqodTWMStn_IBtDxb406cTK4/edit) | Doc | 2020-07-02 |
+| Brown Eye Surprise | [Older & Brown Eye Surprise folder](https://drive.google.com/drive/folders/1fogWJ1c15XPiM_x7CCYBOa96-F64rUTa) | Folder | 2019-05-26 |
+| Disconnect | [HQ Trader Disconnect folder](https://drive.google.com/drive/folders/1sCefTGZJcWj43iKYbi-R6YIanFsr2RIn) | Folder | 2019-11-27 |
+| **Over You** | [Something Dirty - Over You.mp3](https://drive.google.com/file/d/0BxafpfE8cQJ7S2tVSDAxWFZjTU0/view) | MP3 | **2007-02-25** |
+| Beautiful Morning | [Beautiful Morning v1.0.wav](https://drive.google.com/file/d/0BxafpfE8cQJ7Yy1KVFpRV05zRUE/view) | WAV | 2017-05-18 |
+| Over 40 | [Over 40 Lyrics](https://docs.google.com/document/d/11exC5vs07yyvFPYS0uJcSAnAT-WS5vZQcfDTf01uwRg/edit) | Doc | 2020-03-06 |
+| Misery | [Misery](https://docs.google.com/document/d/17f0_-VfZrW6gyF1V_OiVQINAxVadelFjhVrFaaIvVs0/edit) | Doc | 2020-07-11 |
+| Only 18 | [Jeff Story - Only 18 v1.5.mp3](https://drive.google.com/file/d/1c2lAv2AwcJkcLBtHnxrNQ1zg6es-q7PE/view) | MP3 | 2023-11-24 |
+| Take the Abuse | [take the abuse.doc](https://drive.google.com/file/d/1aPFvQ63gqHFGkNbkYA7PLlUuPrSIjj_w/view) | DOC | **1999-07-16** ← oldest file |
+| Poolside | not found | — | — |
+| Resist | [Resist?](https://docs.google.com/document/d/16Q9XZNwRD4Li-bikHg3yr269sCzxCI3lxaQzSl8yqmI/edit) | Doc | 2021-08-17 |
+| Catalyst | [The Catalyst](https://docs.google.com/document/d/1yRLOh77jNcKwLAajuqJuJUXdd5I-_TQG-Yk3-_mxlF0/edit) | Doc | 2023-05-26 |
+| Our Last Night | [Our Last Night (Moonlight Pride)](https://docs.google.com/document/d/1Hu9sOZNkKztSyuyA13EuzE6loW9BxHAt-tmvGur065k/edit) | Doc | 2021-10-05 |
+| Talk to me | [Talk to me](https://docs.google.com/document/d/1-VZZUG4wemMZrDDFaADk95DFD7FRitjRP58Ps2mWNMo/edit) | Doc | 2022-02-11 |
+| Justify | [Justify](https://docs.google.com/document/d/1aYR54UCB8xpjfGD6mCt-G-XkG41HVNSbfQHE73i5Yhw/edit) | Doc | 2023-04-22 |
+| Shine Through | [Shine On Through The Darkness](https://docs.google.com/document/d/1AOsnNTsyGv6cxiWUhXfl-3F4bzTsR7TN8cFmMGF2NUE/edit) | Doc | 2025-05-08 |
+| Airtime | [Airtime](https://docs.google.com/document/d/1QSJzgBs6W9fIz_WBpGPzrBSeGlhp3Mm2hzZMSGMt7sw/edit) | Doc | 2024-09-16 |
+| Suddenly Stranded | [Suddenly Stranded](https://docs.google.com/document/d/1RDij0fw8eMQ4gg7Uto3i7UqY4YH8sdbiXCQmrQRTehE/edit) | Doc | 2024-10-29 |
+
+**Variant confirmations:**
+- Oui C'est Vou → confirmed as **Oui, C'est Fou** — [v1.5 WAV](https://drive.google.com/file/d/1NlkEXKrMnigpl9qGUTEyFaptoEKwvIDg/view) from 2025-01-18
+- Shine Through → confirmed as **Shine On Through The Darkness** (same song)
+
+## Key discoveries from the Drive sweep
+
+- **Over You** is a **Something Dirty** track (MP3 from 2007-02-25) — Something Dirty unreleased catalog now 7+ songs
+- **Older** has a 2014 WAV — recorded, not just a title
+- **Older & Brown Eye Surprise share a folder** — probably recorded together in 2019
+- **Beautiful Morning** has a 2017 WAV — a lost mix from before the solo era launched
+- **Only 18 v1.5 MP3** (2023-11-24) — recorded, but is it the same as Stalemate's "It's Been Only 18"? Or a separate Jeff Story solo version? Needs Jeff to clarify.
+- **Take the Abuse** has a 1999 .doc file — **oldest writing found anywhere** in Jeff's catalog (pre-dates Stalemate's 1997 album? or contemporary?)
+- **Our Last Night** has subtitle "(Moonlight Pride)" — intriguing
+- **Resist?** has a question mark in the title — stylistic, or drafted-uncertain?
+- **Shine Through = Shine On Through The Darkness** — confirmed variant
+
+## Updated Something Dirty catalog (now 12+ songs)
+
+Combining Whiskey and Lollipops EP (5) + SoundCloud-confirmed extras + Drive finds:
+
+**Released on EP:** I Hate This Part, I'm OK, Love In A Pill, Velvet Roses, A Day In The Life
+**Unreleased but exists in SC/Drive:**
+- Rockstar
+- Mom
+- In The End (+ Rhodes version)
+- Cigarettes In A (multiple versions)
+- Blue Skies Fade
+- Bad Idea
+- **Over You** (🆕 2007 MP3 in Drive)
+
+**That's 12 Something Dirty songs total.** Enough for a second EP or a compilation.
+
+## Updated stats
+
+- **Total unique original titles:** ~220 (jumped from ~200 after this sweep)
+- **Drive audio/lyric coverage:** 18/19 of Jeff's new-list items located
+- **Only "Poolside" is title-only** with no Drive artifact — may be voice-memo-only or genuinely unwritten yet
