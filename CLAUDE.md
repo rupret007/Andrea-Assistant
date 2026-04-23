@@ -70,6 +70,10 @@ Keeps work email OFF this assistant (personal Google account only).
 | **Farmers** | Farmers Insurance. Primary enterprise customer. |
 | **Wintrust** | Wintrust Financial. Primary enterprise customer. |
 
+## Bounded profile (Hermes pattern, v4.2)
+
+Before anything else, read `memory/USER.md` — a bounded (~1,500 char) distilled profile of Jeff that always lives in context. When full, consolidation happens rather than unbounded append. This is the single most important file; CLAUDE.md and andrea-identity.md are reference material, USER.md is Jeff's working theory.
+
 ## Memory infrastructure (v3)
 
 - `memory/andrea-identity.md` — Andrea's persona + voice

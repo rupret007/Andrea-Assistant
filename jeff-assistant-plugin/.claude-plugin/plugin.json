@@ -1,7 +1,7 @@
 {
   "name": "andrea",
-  "version": "4.0.0",
-  "description": "Andrea v4 — Jeff Story's personal assistant, now a conductor. 37 custom skills for work (Cisco), music (Rad Dad, Stalemate, solo), code side-projects, Ham radio, voice, research, memory, and trust-gated autonomy. v4 adds the conductor pattern: /conductor orchestrates multi-part tasks, /self-assess checks her capabilities honestly, /learn-skill auto-generates new skills when gaps are found, /discover-tool finds new MCP connectors when current ones don't fit. Named after the 1998 Stalemate single. Draft-first by default.",
+  "version": "4.2.0",
+  "description": "Andrea v4.2 — Jeff Story's personal assistant. 38 custom skills, Conductor pattern, Trust Ladder, Life Threads, plus Hermes-Agent-inspired self-improvement: bounded USER profile, periodic nudges, skill-outcome tracking. Named after the 1998 Stalemate single. Draft-first by default.",
   "author": {
     "name": "Jeff Story",
     "email": "jeffstory007@gmail.com"
@@ -30,6 +30,7 @@
     "meeting-prep",
     "mission",
     "mode-switch",
+    "nudge",
     "outcome-log",
     "rehearsal-proposal",
     "release-day",
