@@ -47,10 +47,18 @@ Unverified 5 tracks — likely drawn from Drive covers work (candidates: Blank S
 A Jeff-era band project. Older work re-distributed via DistroKid in 2023.
 
 ### EP
-**Whiskey and Lollipops EP** — 5 songs, 18 min, Rock
+**Whiskey and Lollipops EP** — 5 songs, 18 min, Rock, explicit
 - Original release: March 31, 2003
 - Re-distributed: 2023 (5164149 Records DK via DistroKid)
 - Apple Music: https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
+- Cover art: red/yellow/black silhouette illustration, title "WHISKY AND LOLLIPOPS" (note: spelled "Whisky" on cover, "Whiskey" in title metadata)
+
+**Tracklist:**
+1. I Hate This Part — 3:50
+2. I'm OK — 3:32 *(explicit)*
+3. Love in a Pill — 1:53
+4. Velvet Roses — 3:30
+5. A Day In the Life — 5:41
 
 **Sole Something Dirty release under Jeff's name** — the Bend, OR "Something Dirty" (Listening To Ghosts, Grow) is a DIFFERENT band with the same name, not Jeff's.
 

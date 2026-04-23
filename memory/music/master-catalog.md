@@ -53,10 +53,16 @@ Canonical index of every Jeff Story musical work. Cross-references lyrics, demos
 ## SOMETHING DIRTY — Released on streaming
 
 ### Whiskey and Lollipops EP (March 2003, re-distributed 2023)
-- 5 tracks, 18 min, Rock
+- 5 tracks, 18 min, Rock, explicit
 - Label: 5164149 Records DK (DistroKid)
 - Apple: https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
-- Tracklist: ❓ not yet indexed — Jeff to paste
+- **Tracks:**
+  1. I Hate This Part (3:50)
+  2. I'm OK (3:32) — explicit
+  3. Love in a Pill (1:53)
+  4. Velvet Roses (3:30)
+  5. A Day In the Life (5:41)
+- Cover: red/yellow/black silhouette illustration (note: cover spells it "Whisky", metadata says "Whiskey")
 - Note: the Bend, OR "Something Dirty" on Apple is a different band — not Jeff's.
 
 ---
