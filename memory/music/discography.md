@@ -1,57 +1,102 @@
-# Discography across streaming services
+# Discography — verified public releases
 
-## Jeff Story — Solo
+## Jeff Story (solo) — Apple ID `1574564614`, label 3139691 Records DK (DistroKid)
 
-**Canonical identifiers:**
-- Apple Music artist: https://music.apple.com/us/artist/jeff-story/1574564614
-- Spotify artist ID: 2w2r0QoEN4fjF5vpkkr827
-- YouTube Music channel: https://music.youtube.com/channel/UCZsPT4AXNRx7iTjhMddei1g
-- SoundCloud: https://soundcloud.com/jeffstory  _(confirm URL — search result suggested `/jeff-story` with a hyphen; need to verify which is correct)_
+### Albums
+| Year | Title | Tracks | Length | Genre |
+|------|-------|:-----:|:-----:|-------|
+| 2021 | Times Have Changed | 13 | 30 min | Alternative |
+| 2025 | Songs You Made Me Ruin | 14 | 46 min | Alternative (Taylor Swift covers, pop-punk reinterpretations — aka "Trailer Swift" project) |
 
-**Releases:**
-| Year | Title | Type | Notes |
-|:----:|-------|:----:|-------|
-| 2021 | Times Have Changed | Album (~7 tracks) | You Complete Me, Synonyms For Stubborn, Dystopian Choice, What To Do, A Simpler Life, Newfound Love, Times Have Changed |
-| 2022 | Thanksgiving | Single | |
-| 2022 | Mom, You're the Bomb | Single | |
-| 2023 | Rockin Around the Christmas Tree | Single (cover) | |
-| 2024 | Oi To The World | Single (cover) | Released 2024-12-23 |
+### Singles
+| Year | Title | Notes |
+|------|-------|-------|
+| 2022 | Thanksgiving | Rock |
+| 2022 | Mom, You're the Bomb | Alternative |
+| 2023 | Rockin Around the Christmas Tree | cover |
+| 2024 | Oi To The World | No Doubt/Vandals cover |
+| 2025 | Morgan the Wizard | Punk |
 
-**Disambiguation:** Jeff Story has multiple unrelated artists with the same name on streaming (a children's content creator "Storytime with Jeff" and "Mr. Jeff / Jeff Klemm"). Confirmed via the 2021 _Times Have Changed_ + 2022–24 holiday singles signature that Apple ID 1574564614 and Spotify ID 2w2r0QoEN4fjF5vpkkr827 are the same artist.
+**Cadence signal:** holiday/seasonal singles every Nov/Dec 2022–2024. No 2025 holiday single confirmed — gap or pending?
 
-**Gaps:** Need to confirm track-level runtimes on each platform, and whether any newer 2025/2026 releases exist.
+**Similar artists (per Apple algorithm):** Angels & Airwaves, Tom DeLonge, Alkaline Trio, Teenage Bottlerocket
+
+**URLs:**
+- Apple Music: https://music.apple.com/us/artist/jeff-story/1574564614
+- Spotify artist ID: `2w2r0QoEN4fjF5vpkkr827`
+- YouTube Music: https://music.youtube.com/channel/UCZsPT4AXNRx7iTjhMddei1g
+
+### Songs You Made Me Ruin — known tracklist
+Confirmed:
+1. You Belong With Me
+2. All Too Well
+3. Enchanted
+4. Stay Stay Stay
+5. Never Grow Up
+6. The Story Of Us
+7. Cruel Summer
+8. Mine
+9. I Knew You Were Trouble
+
+Unverified 5 tracks — likely drawn from Drive covers work (candidates: Blank Space, Shake It Off, Style, Love Story, Sparks Fly, 22, Wildest Dreams). Jeff — confirm when you have a sec.
 
 ---
 
-## Stalemate
+## Stalemate — Apple ID `1718455763`, label 6177054 Records DK
 
-**Canonical identifiers:**
-- Apple Music artist: https://music.apple.com/us/artist/stalemate-band/1718455763
-- YouTube Music channel: https://music.youtube.com/channel/UCDdjz-z6l9UCmbktBaWMb5Q
+### Album
+**My Mom Says We're Cool** (1997, re-released 2023) — 11 tracks, 26 min, Punk
+1. Over 18 (1997)
+2. The Sky Is Blue
+3. Planet of the Flakes
+4. Untrue
+5. A New Girlfriend
+6. I'm a Loser
+7. My Mom Says We're Cool
+8. This Can't Be
+9. Andrea (1997)
+10. Everyday
+11. Wham Bam
+
+### Singles
+- **Andrea** (1998, 2 min) — the namesake
+- **It's Been Only 18** (Nov 2023, 1 min) — sequel to "Over 18 (1997)"
+
+**Apple artist page created:** late 2023 — coincides with reunion / new writing.
+
+**URLs:**
+- Apple Music: https://music.apple.com/us/artist/stalemate-band/1718455763
+- YouTube Music: https://music.youtube.com/channel/UCDdjz-z6l9UCmbktBaWMb5Q
 - Instagram: https://www.instagram.com/stalemate.band/
-- Spotify: **Multiple "Stalemate" artists exist — true ID not yet confirmed.** Candidates: 4rwTyXLXW0blHBUjQdJmA7 and 3w8It9FmLCq1Y2mN49RWhP. Jeff to verify.
-
-**Releases:**
-| Year | Title | Type | Tracks |
-|:----:|-------|:----:|--------|
-| 1997 | My Mom Says We're Cool | Album (8 tracks) | Over 18, The Sky Is Blue, Planet of the Flakes, Untrue, A New Girlfriend, I'm a Loser, My Mom Says We're Cool, This Can't Be |
-| 1998 | Andrea | Single | Namesake of Jeff's Andrea_NanoBot assistant project |
-| 2023 | It's Been Only 18 | Single | Title is a callback to "Over 18" from the '97 album |
-
-**Gaps:** 26-year gap between 1998 and 2023 is the band going dormant and then reviving with the current lineup (Jeff + Che + Sean).
 
 ---
 
 ## Rad Dad
 
-- Website: https://raddadband.com
-- **No public streaming releases identified** as of April 2026. Several similarly-named acts exist on streaming (Rad Dads on Bandcamp, "Rad Dad" on Apple Music ID 1531910361, R.A.D. Band in Atlanta, SoundCloud /raddad and /raddadsf) — none confirmable as Jeff's band.
-- Assets on file: Rad Dad Set Video v1.0 (mp4 in Drive), technical rider v20 Final, website zip backup.
+**No released music on streaming platforms.** The band is identified on [raddadband.com](https://raddadband.com) as a "pop punk cover band."
+
+**Upcoming shows:**
+- Apr 11 2026 — Downtown Dallas Arts & Music Festival
+- May 16 2026 — Richardson Wildflower Arts & Music Festival
+
+**Contact:** rad.dad.band@gmail.com, (214) 697-0584
+
+**Originals in Drive (unreleased):** Thanksgiving, Prevent the Fall, Mom You're The Bomb, Run Away, Less Miserable, Going To New Mexico — all demos from 2024.
 
 ---
 
-## Caveats and recommended verification
+## SoundCloud
 
-- All platform track listings above came from Google search-result snippets because WebFetch was egress-blocked for music.apple.com, open.spotify.com, music.youtube.com, soundcloud.com, and raddadband.com. Track counts and runtimes are best-effort approximations. **Jeff should spot-check a couple of entries in each service's native app.**
-- The SoundCloud URL should be verified: you told me /jeffstory, but search returned /jeff-story with a hyphen.
-- We should pick a definitive Spotify artist ID for Stalemate so future Claude sessions can deep-link to it.
+Not reliably catalog-able from the outside — Exa can't execute SoundCloud's client-side JS.
+
+**Action needed from Jeff:** Open both https://soundcloud.com/jeffstory and https://soundcloud.com/jeff-story, confirm which URL is yours, then paste the track list into a chat and I'll add it here.
+
+---
+
+## Gaps to fill (Jeff action items)
+
+1. Confirm Times Have Changed (2021) tracklist — Drive cross-reference needed
+2. Confirm remaining 5 tracks of Songs You Made Me Ruin (2025)
+3. Verify correct SoundCloud URL + track list
+4. Is there a 2025 holiday single? (Cadence break from prior 3 years)
+5. Any Rad Dad release plans given 6 mixed-but-unreleased Stalemate tracks sitting?

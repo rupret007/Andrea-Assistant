@@ -1,7 +1,7 @@
 {
   "name": "andrea",
-  "version": "4.2.0",
-  "description": "Andrea v4.2 — Jeff Story's personal assistant. 38 custom skills, Conductor pattern, Trust Ladder, Life Threads, plus Hermes-Agent-inspired self-improvement: bounded USER profile, periodic nudges, skill-outcome tracking. Named after the 1998 Stalemate single. Draft-first by default.",
+  "version": "4.3.0",
+  "description": "Andrea v4.3 — Jeff Story's personal assistant. 41 custom skills, Conductor pattern, Trust Ladder, Life Threads, Hermes-style self-improvement, full music archive system (/song-search, /song-rediscover, /voice-memo-ingest). Named after the 1998 Stalemate single. Draft-first by default.",
   "author": {
     "name": "Jeff Story",
     "email": "jeffstory007@gmail.com"
@@ -38,8 +38,11 @@
     "research-topic",
     "say-it",
     "self-assess",
+    "song-rediscover",
+    "song-search",
     "songwriter",
     "trust-ladder",
+    "voice-memo-ingest",
     "voice-mode",
     "voice-to-content",
     "watchlist",
