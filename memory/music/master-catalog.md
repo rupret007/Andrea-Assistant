@@ -50,6 +50,17 @@ Canonical index of every Jeff Story musical work. Cross-references lyrics, demos
 - **Files:** MP3 v1.4, WAV stems (multiple lead vox takes + bridge variations), Logic projects (v1.0, v1.2, v1.3 tracking, v1.4)
 - **Session folder:** `1Fl1TZbNf49CQ1SQIwAYzHTL2MQtmSPIn`
 
+## SOMETHING DIRTY — Released on streaming
+
+### Whiskey and Lollipops EP (March 2003, re-distributed 2023)
+- 5 tracks, 18 min, Rock
+- Label: 5164149 Records DK (DistroKid)
+- Apple: https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
+- Tracklist: ❓ not yet indexed — Jeff to paste
+- **Need Jeff confirm:** is the Bend, OR "Something Dirty" (Apple artist ID `1681677542`, *Listening To Ghosts* 2023 + *Grow* single 2023) also him?
+
+---
+
 ## STALEMATE — Released on streaming
 
 ### My Mom Says We're Cool (1997 album, re-released 2023 via DistroKid)

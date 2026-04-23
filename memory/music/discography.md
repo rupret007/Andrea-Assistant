@@ -42,6 +42,21 @@ Unverified 5 tracks — likely drawn from Drive covers work (candidates: Blank S
 
 ---
 
+## Something Dirty — label 5164149 Records DK
+
+A Jeff-era band project. Older work re-distributed via DistroKid in 2023.
+
+### EP
+**Whiskey and Lollipops EP** — 5 songs, 18 min, Rock
+- Original release: March 31, 2003
+- Re-distributed: 2023 (5164149 Records DK via DistroKid)
+- Apple Music: https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
+
+**Possible additional Something Dirty releases (needs Jeff confirmation):**
+- Apple Music lists a "Something Dirty" artist (ID `1681677542`) from Bend, OR with album *Listening To Ghosts* (2023) and single *Grow* (2023) — unclear if this is the same Something Dirty or a different band with the same name. ❓ Jeff to confirm.
+
+---
+
 ## Stalemate — Apple ID `1718455763`, label 6177054 Records DK
 
 ### Album
