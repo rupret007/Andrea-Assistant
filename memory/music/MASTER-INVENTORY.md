@@ -10,25 +10,25 @@ The canonical list. Every song found across streaming, SoundCloud, Drive, setlis
 
 ## Jeff Story (solo)
 
-### Times Have Changed (2021) — album, 13 tracks
+### Times Have Changed (2021) — album, 13 tracks, confirmed
 Apple ID `1574590283` · https://music.apple.com/us/album/times-have-changed/1574590283
 
-Known/probable tracklist (from Drive + SoundCloud cross-reference):
-1. You Complete Me
-2. Synonyms For Stubborn
-3. Dystopian Choice
-4. What To Do
-5. A Simpler Life
-6. Newfound Love
-7. Times Have Changed (title)
-8. Old You
-9. Life At The Bottom
-10. I'm Sorry I'm Crazy
-11. Annoying Me
-12. Highs And Lows
-13. Candi Lane
+Official tracklist (confirmed by Jeff, with plays + runtimes):
+1. Times Have Changed (title) — 2:12 — 115 plays
+2. I'm Sorry I'm Crazy — 1:46 — 328 plays ← most played on album
+3. Life At The Bottom — 2:26 — 81 plays
+4. Long Long Drive — 2:18 — 118 plays
+5. Annoying Me — 2:11 — 60 plays
+6. Old You — 2:41 — 51 plays
+7. Candi Lane — 2:09 — 92 plays
+8. Newfound Love — 2:12 — 65 plays
+9. A Simpler Life — 3:03 — 41 plays ← longest track
+10. What To Do — 2:16 — 33 plays
+11. Dystopian Choice — 2:38 — 46 plays
+12. Synonyms For Stubborn — 2:15 — 68 plays
+13. You Complete Me — 39 plays
 
-*(Jeff — please confirm tracklist when you have a moment. 13 of the above match SC uploads from the album era.)*
+Not on album: Highs And Lows (was a SC contemporary, didn't make the cut)
 
 ### Songs You Made Me Ruin (2025) — album, 14 tracks
 Apple ID `1827102667` · https://music.apple.com/us/album/songs-you-made-me-ruin/1827102667
@@ -354,7 +354,62 @@ Based on this inventory:
 
 # Follow-up for Jeff
 
-- Confirm Times Have Changed (2021) tracklist against this inventory
+- ~~Confirm Times Have Changed (2021) tracklist against this inventory~~ ✅ Done — 13-track tracklist locked in
 - Listen back to "Hey There Andrea" — worth factoring into the Andrea project?
 - Is Jettison salvageable?
 - Voice-memo-ingest — get iPhone memos into the system so the next sweep finds what's between SC and now
+
+---
+
+# 🆕 NEW SONGS — from Jeff's master list (April 2026)
+
+Jeff supplied a list of 70 songs "in various states — some completely finished and recorded." Many overlap with what was already catalogued; these below are NEW to memory and need further classification. Status: **unclassified** — Jeff to indicate which are finished vs wip vs sketch.
+
+## Titles not yet in the catalog (new — need status)
+
+- **Older**
+- **Life In America**
+- **Brown Eye Surprise** — 🔍 evocative title, unknown state
+- **Disconnect** — (distinct from "Dr Pepper / Disconnect"? or same song?)
+- **Over You**
+- **Beautiful Morning**
+- **Over 40** — 🔍 age/time themed?
+- **Misery**
+- **Only 18** — ≠ "It's Been Only 18" (Stalemate single)? Or earlier version?
+- **Take the Abuse**
+- **Poolside**
+- **Resist**
+- **Catalyst**
+- **Our Last Night**
+- **Talk to me**
+- **Justify** — (distinct from "Unjustified"?)
+- **Shine Through** — (possibly shortened "Shine On Through The Darkness"?)
+- **Airtime**
+- **Suddenly Stranded**
+
+## Variant titles (possible duplicates to resolve)
+
+- **Symptoms for Stubborn** ≈ Synonyms For Stubborn? (likely typo — same song)
+- **Oui C'est Vou** ≈ Oui, C'est Fou? (likely typo — same song, French "yes it's crazy")
+- **31 Timber** = 31 Timber View Ln (confirmed same)
+- **Manic** + **Manic!** (probably same song, two spellings)
+- **Old you** = Old You (same)
+- **Candy Lane** = Candi Lane (same, two spellings)
+
+## Jeff's master list — complete (70 songs as provided)
+
+Full list preserved for reference:
+
+```
+Going to Cali · The Way I Love You · Bad Idea · Older · Cigarettes In A · In The End · B4L · Blindfolds · Head in the Sand · Life In America · Drinking Song · Brown Eye Surprise · Disconnect · Over You · Beautiful Morning · Over 40 · Kids Can't Fly · What to Do · Long Long Drive · Dystopian Choice · Unity · Candy Lane · Misery · Only 18 · Annoying Me · Life at the Bottom · Take the Abuse · Minor Lessons · Independence Day · New Act · Unjustified · Poolside · Resist · Times Have Changed · Newfound Love · Catalyst · I'm Sorry I'm Crazy · Highs and Lows · Symptoms for Stubborn · Bottom Of My Heart · A Simpler Life · TBFH · Old you · Prevent the fall · Manic! · Our Last Night · Talk to me · Less Miserable · It's Alright · Justify · Brave New World · Another Bland Love Song · Mom, You're the Bomb · Be With You · I Fall Down · Thanksgiving · Take The Step · Going To New Mexico · The Prime Outline · 31 Timber · Shine Through · Manic · Turn over the flag · I Need You · Airtime · Oui C'est Vou · 90 Percent · The Leaves Are Weak · Morgan The Wizard · Suddenly Stranded · Political Circus
+```
+
+## Stats update
+
+Adding Jeff's new list, the total unique-title count jumps from ~180 to **~200+ original songs** — a genuinely staggering catalog built over 14+ years. That's more than 1 finished/nearly-finished song every month on average.
+
+## Priority work
+
+For each of the 19 new-titled songs above, Andrea should run `/song-search` against Drive + SoundCloud to see if a version already exists but wasn't connected. After that sweep:
+- Anything with audio → add to appropriate status section above
+- Anything title-only → flag as `lyric-only` or `sketch` for future work
