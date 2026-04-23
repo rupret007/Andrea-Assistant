@@ -4,13 +4,9 @@
 - **Confirmed release:** *Whiskey and Lollipops EP* — March 31, 2003, 5 songs, 18 min, Rock. Re-distributed via DistroKid 2023 (label 5164149 Records DK).
 - **Apple Music album:** https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
 
-## Unclear / needs confirmation
+## Not Jeff
 
-- Apple Music lists a "Something Dirty" artist from **Bend, OR** (artist ID `1681677542`) with:
-  - Album *Listening To Ghosts* (2023)
-  - Single *Grow* (2023) — reportedly written by vocalist/guitarist "Jesse Fish"
-  - Stated influences: Dinosaur Jr., Pixies, Soundgarden, Joy Division, Sugar, Pearl Jam
-  - **Likely a DIFFERENT band with the same name** — Jeff to confirm. Different label profile, different location.
+- Apple Music lists a separate "Something Dirty" artist from **Bend, OR** (artist ID `1681677542`) with *Listening To Ghosts* (2023) and single *Grow* — **confirmed NOT Jeff's band** (different musicians, different location).
 
 ## Timeline in Jeff's music career
 

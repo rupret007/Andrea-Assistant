@@ -52,8 +52,7 @@ A Jeff-era band project. Older work re-distributed via DistroKid in 2023.
 - Re-distributed: 2023 (5164149 Records DK via DistroKid)
 - Apple Music: https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
 
-**Possible additional Something Dirty releases (needs Jeff confirmation):**
-- Apple Music lists a "Something Dirty" artist (ID `1681677542`) from Bend, OR with album *Listening To Ghosts* (2023) and single *Grow* (2023) — unclear if this is the same Something Dirty or a different band with the same name. ❓ Jeff to confirm.
+**Sole Something Dirty release under Jeff's name** — the Bend, OR "Something Dirty" (Listening To Ghosts, Grow) is a DIFFERENT band with the same name, not Jeff's.
 
 ---
 

@@ -57,7 +57,7 @@ Canonical index of every Jeff Story musical work. Cross-references lyrics, demos
 - Label: 5164149 Records DK (DistroKid)
 - Apple: https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
 - Tracklist: ❓ not yet indexed — Jeff to paste
-- **Need Jeff confirm:** is the Bend, OR "Something Dirty" (Apple artist ID `1681677542`, *Listening To Ghosts* 2023 + *Grow* single 2023) also him?
+- Note: the Bend, OR "Something Dirty" on Apple is a different band — not Jeff's.
 
 ---
 
