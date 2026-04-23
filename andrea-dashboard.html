@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Andrea — overview</title>
+<style>
+  :root {
+    --bg:#0f1317; --panel:#161b21; --panel2:#1b222a;
+    --border:#242d38; --text:#e8ecef; --muted:#8a95a3;
+    --accent:#e6644a; --accent-2:#f4a26b;
+    --ok:#4ea36a; --warn:#c5a63c; --danger:#c45c55;
+    --blue:#5f9ec7;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", system-ui, sans-serif;
+         background: var(--bg); color: var(--text); line-height: 1.5; min-height:100vh; }
+  .wrap { max-width: 1280px; margin: 0 auto; padding: 32px 24px 80px; }
+  header { padding: 12px 0 32px; border-bottom: 1px solid var(--border); margin-bottom: 32px; }
+  h1 { font-size: 42px; letter-spacing: -0.02em; margin-bottom: 6px; }
+  h1 span { color: var(--accent); }
+  .tag { display: inline-block; padding: 4px 10px; background: var(--panel); border: 1px solid var(--border);
+         border-radius: 999px; font-size: 12px; color: var(--muted); margin-right: 6px; }
+  .sub { color: var(--muted); font-size: 16px; margin-top: 10px; }
+  h2 { font-size: 22px; margin: 40px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); }
+  h2 small { color: var(--muted); font-weight: normal; font-size: 14px; margin-left: 10px; }
+  .grid { display: grid; gap: 14px; }
+  .grid-3 { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .grid-4 { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); }
+  .card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 18px; }
+  .card h3 { font-size: 14px; color: var(--accent-2); margin-bottom: 6px; letter-spacing: 0.02em; text-transform: uppercase; }
+  .card p { font-size: 14px; color: var(--muted); }
+  .skill { background: var(--panel); border: 1px solid var(--border); border-radius: 8px;
+           padding: 10px 12px; transition: border-color 0.15s; }
+  .skill:hover { border-color: var(--accent); }
+  .skill .name { font-family: ui-monospace, Menlo, Monaco, monospace; color: var(--accent);
+                 font-size: 14px; margin-bottom: 4px; }
+  .skill .desc { font-size: 12px; color: var(--muted); line-height: 1.4; }
+  .ritual { display: grid; grid-template-columns: 180px 1fr; gap: 16px; padding: 10px 0;
+            border-bottom: 1px solid var(--border); }
+  .ritual:last-child { border: none; }
+  .ritual .when { color: var(--blue); font-family: ui-monospace, Menlo, monospace; font-size: 13px; }
+  .ritual .what { color: var(--text); font-size: 14px; }
+  .pill { display: inline-block; padding: 2px 8px; background: var(--panel2); border: 1px solid var(--border);
+          border-radius: 4px; font-size: 11px; color: var(--muted); margin-right: 4px; }
+  .stat { text-align: center; padding: 20px 12px; }
+  .stat .num { font-size: 36px; color: var(--accent); font-weight: 600; }
+  .stat .lbl { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; margin-top: 4px; }
+  .meta-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 10px 20px; font-size: 14px; }
+  .meta-list div { padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .meta-list .k { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 2px; }
+  .meta-list .v { color: var(--text); }
+  footer { margin-top: 60px; padding-top: 20px; border-top: 1px solid var(--border);
+           color: var(--muted); font-size: 13px; text-align: center; }
+  footer em { color: var(--accent-2); }
+  .legend { display: flex; gap: 16px; flex-wrap: wrap; margin-top: 12px; }
+  .legend span { font-size: 12px; color: var(--muted); display: inline-flex; align-items: center; }
+  .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px;
+                         border-radius: 50%; margin-right: 6px; }
+  .dot-id::before { background: #d67867; }
+  .dot-comm::before { background: #c5a63c; }
+  .dot-work::before { background: #5f9ec7; }
+  .dot-music::before { background: #b58cc8; }
+  .dot-code::before { background: #6ec189; }
+  .dot-intel::before { background: #e6644a; }
+  .dot-plan::before { background: #8aa6d6; }
+  .dot-trust::before { background: #c45c55; }
+  .dot-memory::before { background: #a77db5; }
+  .dot-orch::before { background: #4ea36a; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>Andrea <span>v4</span></h1>
+  <div class="sub">Jeff Story's personal assistant — named after the 1998 Stalemate single.
+    <span class="tag">37 skills</span><span class="tag">18 rituals</span><span class="tag">Conductor pattern</span>
+  </div>
+</header>
+
+<section>
+  <h2>At a glance</h2>
+  <div class="grid grid-4">
+    <div class="card stat"><div class="num">37</div><div class="lbl">Skills</div></div>
+    <div class="card stat"><div class="num">18</div><div class="lbl">Scheduled rituals</div></div>
+    <div class="card stat"><div class="num">4</div><div class="lbl">Active life threads</div></div>
+    <div class="card stat"><div class="num">5</div><div class="lbl">Connectors wired</div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Who she serves</h2>
+  <div class="meta-list">
+    <div><div class="k">User</div><div class="v">Jeff Story</div></div>
+    <div><div class="k">Work</div><div class="v">Cisco Collaboration Service Manager</div></div>
+    <div><div class="k">Primary accounts</div><div class="v">Farmers, Wintrust</div></div>
+    <div><div class="k">Bands</div><div class="v">Rad Dad (active), Stalemate (paused)</div></div>
+    <div><div class="k">Solo music</div><div class="v">Apple / Spotify / YouTube Music</div></div>
+    <div><div class="k">Side code</div><div class="v">WebJam, constructiondaily, WPSD-Dashboard, +</div></div>
+    <div><div class="k">Ham radio</div><div class="v">DMR hotspot (WPSD)</div></div>
+    <div><div class="k">Work hours</div><div class="v">7am–4pm weekdays</div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Skills <small>tap any to see its SKILL.md</small></h2>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-id" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#d67867;margin-right:6px"></span>Identity &amp; voice
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/andrea</div><div class="desc">Front door — open conversation with her, reads time of day and greets accordingly</div></div>
+    <div class="skill"><div class="name">/voice-mode</div><div class="desc">Format responses for TTS playback — short sentences, no markdown, spelled numbers</div></div>
+    <div class="skill"><div class="name">/say-it</div><div class="desc">On-demand text-to-speech converter for any pasted text</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-orch" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#4ea36a;margin-right:6px"></span>Conductor &amp; growth (new v4)
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/conductor</div><div class="desc">Orchestrate multi-part tasks — decompose, delegate to specialists, synthesize</div></div>
+    <div class="skill"><div class="name">/self-assess</div><div class="desc">Meta-cognition — "do I actually know how to do this?" before attempting</div></div>
+    <div class="skill"><div class="name">/learn-skill</div><div class="desc">Auto-generate new skills when gaps are found; requires Jeff's approval</div></div>
+    <div class="skill"><div class="name">/discover-tool</div><div class="desc">Search MCP registry when a new connector is needed</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-comm" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#c5a63c;margin-right:6px"></span>Communication
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/band-comms</div><div class="desc">Draft group messages for Rad Dad and Stalemate — practice confirmations, show logistics</div></div>
+    <div class="skill"><div class="name">/rehearsal-proposal</div><div class="desc">Propose rehearsal times by cross-referencing calendar and band availability</div></div>
+    <div class="skill"><div class="name">/release-day</div><div class="desc">Coordinate music release across platforms — social, fan-out, newsletter</div></div>
+    <div class="skill"><div class="name">/inbox-triage</div><div class="desc">Sort personal Gmail into act-now, this-week, archive, delete</div></div>
+    <div class="skill"><div class="name">/voice-to-content</div><div class="desc">Turn voice notes into finished posts, blogs, lyrics, emails</div></div>
+    <div class="skill"><div class="name">/ghostwriter</div><div class="desc">Long-form drafts in Jeff's voice — blogs, essays, liner notes</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-work" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#5f9ec7;margin-right:6px"></span>Work (Cisco)
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/cisco-check-in-draft</div><div class="desc">Draft weekly check-in from Drive pattern; no work email access</div></div>
+    <div class="skill"><div class="name">/meeting-prep</div><div class="desc">Pre-brief for next calendar meeting — attendees, context, talking points</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-music" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#b58cc8;margin-right:6px"></span>Music &amp; creative
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/songwriter</div><div class="desc">Co-writing partner — lyrics, chords, structure; knows Jeff's catalog</div></div>
+    <div class="skill"><div class="name">/lyric-vault</div><div class="desc">Capture voice-memos or raw lyrics; routes to song catalog</div></div>
+    <div class="skill"><div class="name">/market-scan</div><div class="desc">Music industry signal — playlists, sync, similar-artist activity</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-code" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#6ec189;margin-right:6px"></span>Coding projects
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/repo-standup</div><div class="desc">Weekly standup across Jeff's 6 active GitHub repos</div></div>
+    <div class="skill"><div class="name">/wpsd-health</div><div class="desc">Check Ham radio DMR hotspot state and flag anomalies</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-intel" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#e6644a;margin-right:6px"></span>Intelligence &amp; research
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/intel-brief</div><div class="desc">Exa-powered news sweep across Cisco, Wintrust, Farmers, WPSD</div></div>
+    <div class="skill"><div class="name">/watchlist</div><div class="desc">Persistent topic monitoring with delta detection</div></div>
+    <div class="skill"><div class="name">/research-topic</div><div class="desc">Multi-agent deep research orchestrator with parallel sub-agents</div></div>
+    <div class="skill"><div class="name">/what-changed</div><div class="desc">Drive + Gmail + Calendar delta since last check, grouped by project</div></div>
+    <div class="skill"><div class="name">/knowledge-search</div><div class="desc">Cross-memory + Drive search with provenance on every hit</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-plan" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#8aa6d6;margin-right:6px"></span>Planning
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/chief-of-staff</div><div class="desc">Cross-source 9-signal scan — what needs attention, flagged honestly</div></div>
+    <div class="skill"><div class="name">/mission</div><div class="desc">Break big goals into phases with concrete next steps</div></div>
+    <div class="skill"><div class="name">/focus-sprint</div><div class="desc">Timed deep-work session with context load + wrap</div></div>
+    <div class="skill"><div class="name">/mode-switch</div><div class="desc">Load focused context — Cisco, Rad Dad, WebJam, etc.</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-trust" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#c45c55;margin-right:6px"></span>Trust &amp; autonomy
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/trust-ladder</div><div class="desc">Six-tier delivery states for outbound messages (draft-only → never-automate)</div></div>
+    <div class="skill"><div class="name">/delegation-rules</div><div class="desc">Per-class autonomy rules with inspectable usage metrics</div></div>
+    <div class="skill"><div class="name">/action-bundle</div><div class="desc">2–4 approval-gated next steps; partial execution supported</div></div>
+    <div class="skill"><div class="name">/outcome-log</div><div class="desc">Six-state closure ledger — completed, partial, skipped, failed, deferred, unknown</div></div>
+  </div>
+
+  <h3 style="color:var(--accent-2); text-transform:uppercase; letter-spacing:0.05em; font-size:12px; margin:24px 0 10px;">
+    <span class="dot-memory" style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#a77db5;margin-right:6px"></span>Memory &amp; thought
+  </h3>
+  <div class="grid grid-3">
+    <div class="skill"><div class="name">/life-thread</div><div class="desc">Persistent ongoing matters — distinct from tasks, evolve over time</div></div>
+    <div class="skill"><div class="name">/idea-capture</div><div class="desc">Rapid capture with auto-routing to the right memory file</div></div>
+    <div class="skill"><div class="name">/decision-log</div><div class="desc">Log strategic decisions with alternatives and revisit dates</div></div>
+    <div class="skill"><div class="name">/andrea-pulse</div><div class="desc">Request-only surprise recommender; never unsolicited</div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Scheduled rituals <small>she shows up without you asking</small></h2>
+  <div style="background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 20px;">
+    <div class="ritual"><div class="when">Weekdays 6:58am</div><div class="what">Morning briefing + Exa dawn intel</div></div>
+    <div class="ritual"><div class="when">Weekdays every 30 min (7am-4pm)</div><div class="what">Pre-meeting auto-brief</div></div>
+    <div class="ritual"><div class="when">Weekdays 12:33pm</div><div class="what">Midday reground</div></div>
+    <div class="ritual"><div class="when">Weekdays 3:51pm</div><div class="what">End-of-day wrap</div></div>
+    <div class="ritual"><div class="when">Wednesday 1:06pm</div><div class="what">Mid-week chief-of-staff scan</div></div>
+    <div class="ritual"><div class="when">Thursday noon</div><div class="what">Cisco check-in deadline nag</div></div>
+    <div class="ritual"><div class="when">Friday 9:09am</div><div class="what">Utilization Report reminder</div></div>
+    <div class="ritual"><div class="when">Saturday 10:01am</div><div class="what">Creative block nudge</div></div>
+    <div class="ritual"><div class="when">Saturday 11:03pm</div><div class="what">Weekly deep research brief (Exa-powered, multi-agent)</div></div>
+    <div class="ritual"><div class="when">Sunday 6:07pm</div><div class="what">Week-ahead preview</div></div>
+    <div class="ritual"><div class="when">Sunday 8:10pm</div><div class="what">Repo standup across 6 projects</div></div>
+    <div class="ritual"><div class="when">Every day 9pm</div><div class="what">Evening reset</div></div>
+    <div class="ritual"><div class="when">Every day 11:01pm</div><div class="what">Nightly memory consolidation</div></div>
+    <div class="ritual"><div class="when">1st of month 9am</div><div class="what">Monthly review</div></div>
+    <div class="ritual"><div class="when">1st Sunday 11am</div><div class="what">Reconnect nudge — people you haven't talked to</div></div>
+    <div class="ritual"><div class="when">May 9 9am</div><div class="what">Wildflower show — T-7 prep</div></div>
+    <div class="ritual"><div class="when">May 13 9am</div><div class="what">Wildflower show — T-3 prep</div></div>
+    <div class="ritual"><div class="when">May 15 9am</div><div class="what">Wildflower show — day before</div></div>
+  </div>
+</section>
+
+<section>
+  <h2>Live life threads</h2>
+  <div class="grid grid-3">
+    <div class="card"><h3>Lucky's concrete company</h3><p>Ongoing — Jeff + Chris building constructiondaily ops tool for lifelong friend Lucky Ivy's business.</p></div>
+    <div class="card"><h3>Wildflower Festival 2026</h3><p>May 16 show with Rad Dad at Richardson Wildflower. Setlist locked, countdowns scheduled.</p></div>
+    <div class="card"><h3>Stalemate return</h3><p>Band paused while Sean is on paternity leave. Solo work continues (mixing "Better Than Now").</p></div>
+    <div class="card"><h3>Andrea's own evolution</h3><p>Meta-thread tracking her own arc — Stalemate song '98 → NanoBot 2025 → Cowork v1–v4 2026.</p></div>
+  </div>
+</section>
+
+<section>
+  <h2>Connected tools</h2>
+  <div class="grid grid-3">
+    <div class="card"><h3>Gmail (personal)</h3><p>Read, search, draft. No work email — deliberate boundary.</p></div>
+    <div class="card"><h3>Google Calendar</h3><p>Events, scheduling, free-time detection, meeting prep.</p></div>
+    <div class="card"><h3>Google Drive</h3><p>Songs, lyrics, setlists, Cisco references — everything Jeff stores.</p></div>
+    <div class="card"><h3>Exa (web search)</h3><p>Neural search with clean extraction — powers intel briefs and research.</p></div>
+    <div class="card"><h3>Zapier MCP</h3><p>Meta-connector for 8000+ apps. Needs per-app config at <code>mcp.zapier.com</code>.</p></div>
+  </div>
+</section>
+
+<footer>
+  Named for the 1998 Stalemate single. Built on Claude Cowork + Claude Agent SDK.<br>
+  Repo: <a href="https://github.com/rupret007/Andrea-Assistant" style="color:var(--accent)">github.com/rupret007/Andrea-Assistant</a>
+  · <em>Draft-first. Approval-gated. Genuinely Jeff's.</em>
+</footer>
+
+</div>
+</body>
+</html>

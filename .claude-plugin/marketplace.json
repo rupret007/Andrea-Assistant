@@ -1,0 +1,29 @@
+{
+  "name": "andrea-marketplace",
+  "description": "Jeff Story's personal Andrea marketplace. Single plugin: Andrea.",
+  "owner": {
+    "name": "Jeff Story",
+    "email": "jeffstory007@gmail.com",
+    "url": "https://github.com/rupret007"
+  },
+  "plugins": [
+    {
+      "name": "andrea",
+      "source": "./jeff-assistant-plugin",
+      "description": "Andrea — personal AI assistant with 37 skills, conductor pattern, Trust Ladder, Life Threads, and full memory system. Named after the 1998 Stalemate single.",
+      "version": "4.0.0",
+      "author": {
+        "name": "Jeff Story",
+        "email": "jeffstory007@gmail.com"
+      },
+      "category": "productivity",
+      "tags": [
+        "personal-assistant",
+        "orchestration",
+        "music",
+        "work",
+        "memory"
+      ]
+    }
+  ]
+}
