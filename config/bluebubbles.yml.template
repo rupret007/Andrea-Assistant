@@ -24,12 +24,37 @@ trusted_senders:
     handle: "travis.worsham@gmail.com"
     permissions:
       - andrea_mention
+  - name: "Chris Story"  # brother
+    handle: "REPLACE_WITH_HIS_PHONE"
+    permissions:
+      - andrea_mention
+      - task_add
+  - name: "Ashleigh Rowan"  # sister (née Story)
+    handle: "REPLACE_WITH_HER_PHONE"
+    permissions:
+      - andrea_mention
+  - name: "Larry Story"  # father
+    handle: "REPLACE_WITH_HIS_PHONE"
+    permissions:
+      - andrea_mention
+      - high_priority
+  - name: "Connie Story"  # mother
+    handle: "REPLACE_WITH_HER_PHONE"
+    permissions:
+      - andrea_mention
+      - high_priority
+  - name: "Travis William Story"  # SON (not Travis Worsham)
+    handle: "REPLACE_WITH_HIS_PHONE_IF_HE_HAS_ONE"
+    permissions:
+      - andrea_mention
+      - task_add
   # Add more as needed
 
 # Group chats where @andrea is allowed
 trusted_group_chats:
   - "Rad Dad band"
-  - "Family"
+  - "Stalemate"
+  - "Family"  # parents + siblings thread
 
 # Wake phrase (anything following this in a text from a trusted sender
 # gets routed to Andrea)
