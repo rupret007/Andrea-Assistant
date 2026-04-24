@@ -17,7 +17,10 @@ Keeps work email OFF this assistant (personal Google account only).
 ## People
 | Who | Role |
 |-----|------|
+| **Larry Story** | Jeff's **father**. Married Connie Aug 22, 1969. "One of the most amazing people in the history of the world." |
+| **Connie Story** | Jeff's **mother**. Married Larry Aug 22, 1969. "One of the most amazing people in the history of the world." |
 | **Chris Story** | Jeff's brother. Co-builder of `constructiondaily`. |
+| **Ashleigh Rowan** (née Story) | Jeff's sister. |
 | **Lucky Ivy** | Lifelong best friend. Bass in Rad Dad. Owns a concrete company; `constructiondaily` serves it. |
 | **Travis Worsham** | Lead guitar in Rad Dad. Playing with Jeff since ~1997 (Super Bowl XXXI met). ⚠️ NOT Jeff's son. |
 | **Travis William Story** | Jeff's **SON**. Named after Candace's grandfather + Jeff's grandfather. NOT named after Travis Worsham. |
