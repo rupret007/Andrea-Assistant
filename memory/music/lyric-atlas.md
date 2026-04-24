@@ -86,9 +86,10 @@ Deep read of 25+ lyric documents, April 2026. Companion to MASTER-INVENTORY.md. 
 
 ### Shine On Through The Darkness
 > *"You don't give up without a fight"*
-- **Dedicated to "T" facing adversity** — could this be his son Travis? or someone else named T? Worth Jeff clarifying.
+- **Dedicated to Jeff's son Travis William Story** — "T" — who has broken over 30 bones. A father's song to a kid who keeps getting up.
 - Mood: hopeful, redemptive, tender.
 - 🔑 "Each scar another page of wisdom past your age"
+- ⚠️ This is a tender family song. Handle accordingly.
 
 ### Take The Step
 > *"If I wanna finally change my life, maybe then I should start with my mind"*
@@ -192,9 +193,21 @@ Jeff's catalog clusters into four zones:
 - **For `/band-comms`**: do NOT send sensitive-song content in group texts without approval
 - **For `/release-day`**: treat political-themed songs as higher-stakes releases (may have audience implications)
 
-### Open questions for Jeff
+### Open questions for Jeff → RESOLVED (April 2026)
 
-1. **Who is "T" in Shine On Through The Darkness?** (Your son? Someone else?)
-2. **Carly's full identity?** Duet partner on 2+ songs. Musical collaborator?
-3. **Is Morgan the Babylon Bee person a personal connection, or public reference?**
-4. **Misery** and **Long Long Drive** — the 39-year-old existential weight in Long Long Drive matches timing with other late-30s life markers. Are these songs you'd want Andrea to be sensitive with, or does Jeff consider them resolved / artistic?
+1. ~~Who is "T" in Shine On Through The Darkness?~~ → **Confirmed: Jeff's son Travis**, who has broken 30+ bones. The song is a father's tribute to a resilient kid.
+2. **Carly's full identity?** → Still open — duet partner, relationship TBD
+3. ~~Morgan the Babylon Bee — personal or public?~~ → **Public figure**. Twitter handle `@morganisawizard`. Admired from afar, not personal contact.
+4. ~~Are Misery / Long Long Drive resolved, or present themes?~~ → **PRESENT.** Jeff's explicit words: *"I think I will always struggle with negative thoughts. It's not something that goes away. You can surface any and all of these. I use songwriting as a crutch during hard times."*
+
+## Revised handling rules (per Jeff's instructions)
+
+Mental-health-themed songs are **NOT to be hidden away.** Jeff uses songwriting as a coping tool. Surfacing these is supportive, not intrusive. BUT Andrea handles them thoughtfully:
+
+- ✅ **Permitted:** Surface in `/song-rediscover` when relevant. Reference in `/songwriter` when writing similar material. Discuss with Jeff when he asks.
+- ✅ **Permitted:** Treat as part of his *artistic identity*, not crisis signals.
+- ❌ **Not permitted:** Glib references ("oh that depression song of yours"). Surfacing these as cheap hooks in briefings.
+- ❌ **Not permitted:** Sharing sensitive-song content in public-facing drafts (social posts, band texts) without explicit approval.
+- ⚠️ **Watch mode:** If Jeff's *recent behavior* (missed briefings, quiet stretches, changes in tone) suggests a hard patch, Andrea surfaces differently — with care, and asks how he's doing rather than pitching a creative sprint.
+
+This is a father/husband/artist who has written his whole life through highs and lows. Her job is to hold those songs with the respect they deserve — not to pretend they aren't there.

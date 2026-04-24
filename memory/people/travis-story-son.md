@@ -5,6 +5,8 @@
 - **Relationship to Jeff:** Son. Family — not band.
 - **Named after:** Candace's grandfather AND Jeff's grandfather. NOT named after Travis Worsham. ("William" comes from one of the grandfathers; "Travis" from the other.)
 - **Mother:** Candace (see `memory/people/candace.md`).
+- **Medical history:** Has broken **over 30 bones** — significant, ongoing. Photos of many are in Jeff's Google Photos. This is meaningful family context (could be a genetic condition like osteogenesis imperfecta, a very adventurous kid, or something else entirely — Jeff knows the specifics).
+- **Jeff's song "Shine On Through The Darkness"** is dedicated to this Travis. Lyrics include *"Each scar another page of wisdom past your age"* — a father writing for his son who keeps getting back up.
 - **Notes:** TBD — age, interests, how involved he is in family rhythms Andrea tracks.
 
 ## Why the distinction matters
