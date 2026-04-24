@@ -456,6 +456,30 @@ Drive sweep results — lyric docs and audio files located for each new title:
 - **Resist?** has a question mark in the title — stylistic, or drafted-uncertain?
 - **Shine Through = Shine On Through The Darkness** — confirmed variant
 
+## 🏛 BLUE SKIES FADE — the epic
+
+Confirmed by Jeff: **Blue Skies Fade** is his **20-minute punk concept song** written in college, pre-Stalemate. Directly in the lineage of **NOFX's "The Decline"** (18-min 1999 punk epic).
+
+- **Released under:** Something Dirty (SoundCloud, 6 yrs ago, 40 plays)
+- **Significance:** This is Jeff's *magnum opus* of the pre-Stalemate era. A 20-min punk concept piece is a genuine achievement — very few bands attempt it.
+- **Status:** exists on SoundCloud, probably multiple versions buried in Drive
+- **Worth:** a dedicated `/song-search` sweep AND possibly a revival / re-release / documentary track on his artistic evolution
+
+## Pre-Stalemate era — Durchfallen
+
+Jeff's high-school band **Durchfallen** (German for "to fail / fall through") was him + Lucky Ivy. Pre-1997. Predecessor to Stalemate. See `memory/projects/durchfallen.md` for details.
+
+This means Jeff's actual music timeline has 6 band/project eras, not 5:
+
+1. **Durchfallen** (high school, pre-1997)
+2. **Stalemate** (1997 album + ongoing)
+3. **Something Dirty** (2003 EP, 2007-11 recordings, including Blue Skies Fade the 20-min epic)
+4. **Jeff Story solo** (2020 onward — Times Have Changed 2021, Songs You Made Me Ruin 2025)
+5. **Rad Dad** (active covers + originals)
+6. **Stalemate revived** (2023 onward with new bassist Sean)
+
+That's **30+ years** of continuous musical output under multiple banners.
+
 ## Updated Something Dirty catalog (now 12+ songs)
 
 Combining Whiskey and Lollipops EP (5) + SoundCloud-confirmed extras + Drive finds:
