@@ -8,4 +8,5 @@
   - **Stalemate** (1997 onward, with other members added later)
   - **Something Dirty** (2003-era) — alongside Greg on vocals, Jeff, and Travis
   - **Rad Dad** (current) — bass
+- **Spouse:** **Jenny** — part of Jeff + Candace's long-time friend group (known forever).
 - **Notes:** TBD — concrete company name, location, service area.

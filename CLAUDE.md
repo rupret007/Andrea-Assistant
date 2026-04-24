@@ -23,6 +23,8 @@ Keeps work email OFF this assistant (personal Google account only).
 | **Travis William Story** | Jeff's **SON**. Named after Candace's grandfather + Jeff's grandfather. NOT named after Travis Worsham. |
 | **Candace** | Jeff's partner/wife. Mother of Travis (son). |
 | **Greg** | Lead vocals, Something Dirty era (2003). |
+| **Carly** | Travis Worsham's wife. Duet partner on Jeff's Take The Step + B4L. |
+| **Jenny** | Lucky Ivy's wife. Long-time friend-group. |
 | **Che** | Drums — in BOTH Rad Dad AND Stalemate. Same drummer since the 90s Stalemate. |
 | **Sean** | Bass + vocals in Stalemate (current lineup). On paternity leave — new baby. |
 

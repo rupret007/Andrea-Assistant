@@ -7,6 +7,7 @@
 - **Email:** travis.worsham@gmail.com
 - **Age:** ~10 years older than Jeff.
 - **How they met:** Super Bowl XXXI party (Jan 26, 1997 — Packers 35-21 over Patriots).
+- **Spouse:** **Carly** — featured duet partner on Jeff's *Take The Step* and *B4L*. Part of Jeff + Candace's long-time friend group.
 - **Band history with Jeff:**
   - **Something Dirty** (2003-era) — alongside Greg on vocals, Jeff, and Lucky. Travis's first band with Jeff.
   - **Rad Dad** (current) — lead guitar.
