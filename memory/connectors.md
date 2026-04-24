@@ -4,6 +4,14 @@ Live inventory of external tools Andrea can call. Maintained by `/discover-tool`
 
 ## Active
 
+### BlueBubbles (iMessage bridge)
+- What: iMessage access via BlueBubbles server running on Jeff's Mac. Read + send iMessages, scan for @andrea mentions in group chats.
+- When to use: texting Candace, band group texts, friend communication; `/imessage-check`, `/imessage-send`, `/summarize-thread`.
+- Config: `config/bluebubbles.local.yml` (never committed — password lives locally).
+- Trust tier: default tier 3 (approve_before_send) for outbound. Inbound read-only.
+- Related scheduled task: `andrea-mention-watcher` polls every 5 min for @andrea mentions from trusted senders.
+- Dependency: Mac must be awake + on same LAN as Cowork.
+
 ### Gmail (personal)
 - What: Jeff's personal inbox. Read threads, search, draft replies, list labels.
 - When to use: any personal email work. NEVER work email — not connected, deliberate boundary.

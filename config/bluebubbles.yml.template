@@ -1,0 +1,39 @@
+# BlueBubbles config template
+# Copy this to `config/bluebubbles.local.yml` and fill in real values.
+# NEVER commit the real config — it contains credentials.
+# The .gitignore excludes *.local.yml to prevent accidental commits.
+
+serverUrl: http://MacBook-Pro.local:1234
+port: 1234
+password: REPLACE_WITH_YOUR_PASSWORD
+
+# Only messages from these sender handles can trigger @andrea mentions
+# (prevents strangers from commanding Andrea if the BlueBubbles API is exposed)
+trusted_senders:
+  - name: "Candace"
+    handle: "REPLACE_WITH_HER_PHONE_OR_EMAIL"
+    permissions:
+      - calendar_write
+      - task_add
+      - message_send
+  - name: "Lucky Ivy"
+    handle: "REPLACE_WITH_HIS_PHONE"
+    permissions:
+      - andrea_mention
+  - name: "Travis Worsham"
+    handle: "travis.worsham@gmail.com"
+    permissions:
+      - andrea_mention
+  # Add more as needed
+
+# Group chats where @andrea is allowed
+trusted_group_chats:
+  - "Rad Dad band"
+  - "Family"
+
+# Wake phrase (anything following this in a text from a trusted sender
+# gets routed to Andrea)
+wake_phrase: "@andrea"
+
+# Default trust tier for sending (per Trust Ladder)
+default_send_tier: 3  # approve_before_send

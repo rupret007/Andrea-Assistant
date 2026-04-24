@@ -30,3 +30,9 @@ memory/outcome-log.md
 .env.local
 secrets/
 credentials/
+
+# BlueBubbles and other local config with passwords
+config/*.local.yml
+config/*.local.yaml
+config/*.local.json
+config/bluebubbles.local.*
