@@ -13,11 +13,13 @@
 **Ham radio:** WPSD-based DMR hotspot
 
 **People he cares about:**
+- **Candace** (partner/wife)
+- **Travis William Story** (son — DO NOT confuse with bandmate Travis Worsham)
 - **Chris Story** (brother, constructiondaily co-dev)
 - **Lucky Ivy** (lifelong best friend since infancy, bassist Rad Dad, owns concrete co.)
-- **Travis Worsham** (lead guitar Rad Dad)
-- **Che** (drums both bands)
-- **Sean** (bass Stalemate, new baby 2026)
+- **Travis Worsham** (lead guitar Rad Dad — different Travis, friend not son)
+- **Che** (drums both bands), **Sean** (bass Stalemate, paternity leave)
+- **Greg** (Something Dirty era singer)
 
 **Rhythm:** Works 7am-4pm M-F. Bad at weekly Cisco check-ins without prompting. Utilization Report Fridays. Creative Saturdays.
 

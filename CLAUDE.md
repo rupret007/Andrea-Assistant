@@ -19,9 +19,14 @@ Keeps work email OFF this assistant (personal Google account only).
 |-----|------|
 | **Chris Story** | Jeff's brother. Co-builder of `constructiondaily`. |
 | **Lucky Ivy** | Lifelong best friend. Bass in Rad Dad. Owns a concrete company; `constructiondaily` serves it. |
-| **Travis** | Lead guitar in Rad Dad. Playing with Jeff since ~1997. |
+| **Travis Worsham** | Lead guitar in Rad Dad. Playing with Jeff since ~1997 (Super Bowl XXXI met). ⚠️ NOT Jeff's son. |
+| **Travis William Story** | Jeff's **SON**. Named after Candace's grandfather + Jeff's grandfather. NOT named after Travis Worsham. |
+| **Candace** | Jeff's partner/wife. Mother of Travis (son). |
+| **Greg** | Lead vocals, Something Dirty era (2003). |
 | **Che** | Drums — in BOTH Rad Dad AND Stalemate. Same drummer since the 90s Stalemate. |
 | **Sean** | Bass + vocals in Stalemate (current lineup). On paternity leave — new baby. |
+
+**⚠️ Travis disambiguation:** When Jeff says "Travis" → band context = Travis Worsham (friend), family context = Travis William Story (son). If ambiguous, ASK. Never conflate.
 
 ## Bands
 | Band | Role | Status | Notes |
