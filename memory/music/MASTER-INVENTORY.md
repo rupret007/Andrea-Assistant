@@ -480,6 +480,19 @@ This means Jeff's actual music timeline has 6 band/project eras, not 5:
 
 That's **30+ years** of continuous musical output under multiple banners.
 
+## Lineups across the eras (updated April 2026)
+
+| Era | Band | Members |
+|-----|------|---------|
+| pre-1997 | Durchfallen | Jeff + Lucky + others (HS) |
+| 1997 onward | Stalemate (original) | Jeff + Lucky + others |
+| 2003–~2011 | **Something Dirty** | **Greg (vocals) + Jeff + Lucky + Travis** ← Travis's first band with Jeff, first era all four together |
+| 2020–present | Jeff Story solo | Jeff only |
+| Current | Rad Dad | Jeff + Travis + Lucky + Che (no Greg) |
+| 2023+ | Stalemate revived | Jeff + Che + Sean (no Lucky or Travis) |
+
+**The through-line:** Lucky has been with Jeff since HS (all eras except solo and revived Stalemate). Travis joined at Something Dirty (2003) and continues through Rad Dad. Greg is the only "Something Dirty only" member. Che joined at Stalemate and is the only drummer in both bands.
+
 ## Updated Something Dirty catalog (now 12+ songs)
 
 Combining Whiskey and Lollipops EP (5) + SoundCloud-confirmed extras + Drive finds:

@@ -1,6 +1,14 @@
 # Something Dirty (band project)
 
-- **Role:** Earlier Jeff Story band project.
+- **Role:** Earlier Jeff Story band project (2003 EP era, recordings through ~2011).
+
+## Lineup
+- **Greg** — lead vocals (primary singer; separate person from Jeff)
+- **Jeff Story** — guitar/vocals/writing
+- **Lucky Ivy** — (continuing from Durchfallen + Stalemate era)
+- **Travis Worsham** — (joined the Jeff music universe at Super Bowl XXXI party Jan 1997; Something Dirty was his first band with Jeff)
+
+This is the FIRST era where all four — Greg, Jeff, Lucky, Travis — played together. After Something Dirty wound down, Greg departed; Jeff, Lucky, and Travis eventually reformed as the core of what became Rad Dad.
 - **Confirmed release:** *Whiskey and Lollipops EP* — March 31, 2003, 5 songs, 18 min, Rock, explicit. Re-distributed via DistroKid 2023 (label 5164149 Records DK).
 - **Apple Music album:** https://music.apple.com/us/album/whiskey-and-lollipops-ep/1680727394
 - **Tracklist:**
